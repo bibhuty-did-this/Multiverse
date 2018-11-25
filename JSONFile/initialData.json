@@ -1,0 +1,585 @@
+[
+	
+    {
+        "FAMILY_ID": 75,
+        "ID": 1,
+        "POWER": -1,
+        "UNIVERSE": 7
+    },
+    {
+        "FAMILY_ID": 69,
+        "ID": 2,
+        "POWER": -2,
+        "UNIVERSE": 33
+    },
+    {
+        "FAMILY_ID": 74,
+        "ID": 3,
+        "POWER": 0,
+        "UNIVERSE": 36
+    },
+    {
+        "FAMILY_ID": 24,
+        "ID": 4,
+        "POWER": -1,
+        "UNIVERSE": 18
+    },
+    {
+        "FAMILY_ID": 74,
+        "ID": 5,
+        "POWER": -2,
+        "UNIVERSE": 48
+    },
+    {
+        "FAMILY_ID": 29,
+        "ID": 6,
+        "POWER": -1,
+        "UNIVERSE": 4
+    },
+    {
+        "FAMILY_ID": 75,
+        "ID": 7,
+        "POWER": 0,
+        "UNIVERSE": 34
+    },
+    {
+        "FAMILY_ID": 13,
+        "ID": 8,
+        "POWER": 0,
+        "UNIVERSE": 78
+    },
+    {
+        "FAMILY_ID": 21,
+        "ID": 9,
+        "POWER": -2,
+        "UNIVERSE": 7
+    },
+    {
+        "FAMILY_ID": 46,
+        "ID": 10,
+        "POWER": 0,
+        "UNIVERSE": 29
+    },
+    {
+        "FAMILY_ID": 76,
+        "ID": 11,
+        "POWER": 0,
+        "UNIVERSE": 18
+    },
+    {
+        "FAMILY_ID": 29,
+        "ID": 12,
+        "POWER": -2,
+        "UNIVERSE": 19
+    },
+    {
+        "FAMILY_ID": 6,
+        "ID": 13,
+        "POWER": -1,
+        "UNIVERSE": 72
+    },
+    {
+        "FAMILY_ID": 48,
+        "ID": 14,
+        "POWER": 0,
+        "UNIVERSE": 81
+    },
+    {
+        "FAMILY_ID": 55,
+        "ID": 15,
+        "POWER": -1,
+        "UNIVERSE": 47
+    },
+    {
+        "FAMILY_ID": 93,
+        "ID": 16,
+        "POWER": 1,
+        "UNIVERSE": 11
+    },
+    {
+        "FAMILY_ID": 44,
+        "ID": 17,
+        "POWER": -2,
+        "UNIVERSE": 84
+    },
+    {
+        "FAMILY_ID": 85,
+        "ID": 18,
+        "POWER": 0,
+        "UNIVERSE": 59
+    },
+    {
+        "FAMILY_ID": 92,
+        "ID": 19,
+        "POWER": -2,
+        "UNIVERSE": 46
+    },
+    {
+        "FAMILY_ID": 57,
+        "ID": 20,
+        "POWER": -2,
+        "UNIVERSE": 56
+    },
+    {
+        "FAMILY_ID": 26,
+        "ID": 21,
+        "POWER": 0,
+        "UNIVERSE": 68
+    },
+    {
+        "FAMILY_ID": 59,
+        "ID": 22,
+        "POWER": 0,
+        "UNIVERSE": 89
+    },
+    {
+        "FAMILY_ID": 68,
+        "ID": 23,
+        "POWER": 1,
+        "UNIVERSE": 48
+    },
+    {
+        "FAMILY_ID": 97,
+        "ID": 24,
+        "POWER": 1,
+        "UNIVERSE": 19
+    },
+    {
+        "FAMILY_ID": 8,
+        "ID": 25,
+        "POWER": 0,
+        "UNIVERSE": 78
+    },
+    {
+        "FAMILY_ID": 49,
+        "ID": 26,
+        "POWER": -2,
+        "UNIVERSE": 88
+    },
+    {
+        "FAMILY_ID": 82,
+        "ID": 27,
+        "POWER": 1,
+        "UNIVERSE": 79
+    },
+    {
+        "FAMILY_ID": 11,
+        "ID": 28,
+        "POWER": 0,
+        "UNIVERSE": 64
+    },
+    {
+        "FAMILY_ID": 20,
+        "ID": 29,
+        "POWER": 0,
+        "UNIVERSE": 84
+    },
+    {
+        "FAMILY_ID": 2,
+        "ID": 30,
+        "POWER": 1,
+        "UNIVERSE": 89
+    },
+    {
+        "FAMILY_ID": 72,
+        "ID": 31,
+        "POWER": -1,
+        "UNIVERSE": 17
+    },
+    {
+        "FAMILY_ID": 34,
+        "ID": 32,
+        "POWER": 2,
+        "UNIVERSE": 37
+    },
+    {
+        "FAMILY_ID": 53,
+        "ID": 33,
+        "POWER": 0,
+        "UNIVERSE": 7
+    },
+    {
+        "FAMILY_ID": 39,
+        "ID": 34,
+        "POWER": 2,
+        "UNIVERSE": 23
+    },
+    {
+        "FAMILY_ID": 38,
+        "ID": 35,
+        "POWER": 2,
+        "UNIVERSE": 31
+    },
+    {
+        "FAMILY_ID": 28,
+        "ID": 36,
+        "POWER": -2,
+        "UNIVERSE": 18
+    },
+    {
+        "FAMILY_ID": 21,
+        "ID": 37,
+        "POWER": -2,
+        "UNIVERSE": 54
+    },
+    {
+        "FAMILY_ID": 16,
+        "ID": 38,
+        "POWER": -2,
+        "UNIVERSE": 83
+    },
+    {
+        "FAMILY_ID": 29,
+        "ID": 39,
+        "POWER": -2,
+        "UNIVERSE": 5
+    },
+    {
+        "FAMILY_ID": 48,
+        "ID": 40,
+        "POWER": 0,
+        "UNIVERSE": 34
+    },
+    {
+        "FAMILY_ID": 87,
+        "ID": 41,
+        "POWER": 0,
+        "UNIVERSE": 12
+    },
+    {
+        "FAMILY_ID": 66,
+        "ID": 42,
+        "POWER": 0,
+        "UNIVERSE": 38
+    },
+    {
+        "FAMILY_ID": 12,
+        "ID": 43,
+        "POWER": 0,
+        "UNIVERSE": 24
+    },
+    {
+        "FAMILY_ID": 15,
+        "ID": 44,
+        "POWER": 0,
+        "UNIVERSE": 26
+    },
+    {
+        "FAMILY_ID": 5,
+        "ID": 45,
+        "POWER": -2,
+        "UNIVERSE": 39
+    },
+    {
+        "FAMILY_ID": 85,
+        "ID": 46,
+        "POWER": -1,
+        "UNIVERSE": 2
+    },
+    {
+        "FAMILY_ID": 77,
+        "ID": 47,
+        "POWER": 1,
+        "UNIVERSE": 64
+    },
+    {
+        "FAMILY_ID": 2,
+        "ID": 48,
+        "POWER": 0,
+        "UNIVERSE": 67
+    },
+    {
+        "FAMILY_ID": 83,
+        "ID": 49,
+        "POWER": 1,
+        "UNIVERSE": 63
+    },
+    {
+        "FAMILY_ID": 7,
+        "ID": 50,
+        "POWER": -1,
+        "UNIVERSE": 29
+    },
+    {
+        "FAMILY_ID": 4,
+        "ID": 51,
+        "POWER": -2,
+        "UNIVERSE": 46
+    },
+    {
+        "FAMILY_ID": 45,
+        "ID": 52,
+        "POWER": -1,
+        "UNIVERSE": 50
+    },
+    {
+        "FAMILY_ID": 84,
+        "ID": 53,
+        "POWER": 0,
+        "UNIVERSE": 35
+    },
+    {
+        "FAMILY_ID": 7,
+        "ID": 54,
+        "POWER": -2,
+        "UNIVERSE": 9
+    },
+    {
+        "FAMILY_ID": 18,
+        "ID": 55,
+        "POWER": -2,
+        "UNIVERSE": 1
+    },
+    {
+        "FAMILY_ID": 0,
+        "ID": 56,
+        "POWER": -1,
+        "UNIVERSE": 88
+    },
+    {
+        "FAMILY_ID": 79,
+        "ID": 57,
+        "POWER": 0,
+        "UNIVERSE": 70
+    },
+    {
+        "FAMILY_ID": 9,
+        "ID": 58,
+        "POWER": 2,
+        "UNIVERSE": 38
+    },
+    {
+        "FAMILY_ID": 62,
+        "ID": 59,
+        "POWER": 0,
+        "UNIVERSE": 85
+    },
+    {
+        "FAMILY_ID": 21,
+        "ID": 60,
+        "POWER": 1,
+        "UNIVERSE": 17
+    },
+    {
+        "FAMILY_ID": 39,
+        "ID": 61,
+        "POWER": -1,
+        "UNIVERSE": 84
+    },
+    {
+        "FAMILY_ID": 83,
+        "ID": 62,
+        "POWER": 2,
+        "UNIVERSE": 68
+    },
+    {
+        "FAMILY_ID": 55,
+        "ID": 63,
+        "POWER": 0,
+        "UNIVERSE": 34
+    },
+    {
+        "FAMILY_ID": 92,
+        "ID": 64,
+        "POWER": 0,
+        "UNIVERSE": 33
+    },
+    {
+        "FAMILY_ID": 48,
+        "ID": 65,
+        "POWER": 0,
+        "UNIVERSE": 1
+    },
+    {
+        "FAMILY_ID": 17,
+        "ID": 66,
+        "POWER": 2,
+        "UNIVERSE": 87
+    },
+    {
+        "FAMILY_ID": 95,
+        "ID": 67,
+        "POWER": -1,
+        "UNIVERSE": 46
+    },
+    {
+        "FAMILY_ID": 0,
+        "ID": 68,
+        "POWER": -2,
+        "UNIVERSE": 32
+    },
+    {
+        "FAMILY_ID": 4,
+        "ID": 69,
+        "POWER": -1,
+        "UNIVERSE": 33
+    },
+    {
+        "FAMILY_ID": 91,
+        "ID": 70,
+        "POWER": 0,
+        "UNIVERSE": 46
+    },
+    {
+        "FAMILY_ID": 31,
+        "ID": 71,
+        "POWER": -1,
+        "UNIVERSE": 9
+    },
+    {
+        "FAMILY_ID": 39,
+        "ID": 72,
+        "POWER": 0,
+        "UNIVERSE": 61
+    },
+    {
+        "FAMILY_ID": 18,
+        "ID": 73,
+        "POWER": 2,
+        "UNIVERSE": 51
+    },
+    {
+        "FAMILY_ID": 47,
+        "ID": 74,
+        "POWER": -1,
+        "UNIVERSE": 76
+    },
+    {
+        "FAMILY_ID": 61,
+        "ID": 75,
+        "POWER": 0,
+        "UNIVERSE": 83
+    },
+    {
+        "FAMILY_ID": 50,
+        "ID": 76,
+        "POWER": 1,
+        "UNIVERSE": 38
+    },
+    {
+        "FAMILY_ID": 96,
+        "ID": 77,
+        "POWER": 1,
+        "UNIVERSE": 84
+    },
+    {
+        "FAMILY_ID": 75,
+        "ID": 78,
+        "POWER": 0,
+        "UNIVERSE": 81
+    },
+    {
+        "FAMILY_ID": 20,
+        "ID": 79,
+        "POWER": 0,
+        "UNIVERSE": 28
+    },
+    {
+        "FAMILY_ID": 92,
+        "ID": 80,
+        "POWER": -2,
+        "UNIVERSE": 53
+    },
+    {
+        "FAMILY_ID": 42,
+        "ID": 81,
+        "POWER": -2,
+        "UNIVERSE": 17
+    },
+    {
+        "FAMILY_ID": 30,
+        "ID": 82,
+        "POWER": -1,
+        "UNIVERSE": 71
+    },
+    {
+        "FAMILY_ID": 97,
+        "ID": 83,
+        "POWER": -2,
+        "UNIVERSE": 8
+    },
+    {
+        "FAMILY_ID": 50,
+        "ID": 84,
+        "POWER": 2,
+        "UNIVERSE": 84
+    },
+    {
+        "FAMILY_ID": 39,
+        "ID": 85,
+        "POWER": 0,
+        "UNIVERSE": 21
+    },
+    {
+        "FAMILY_ID": 46,
+        "ID": 86,
+        "POWER": 2,
+        "UNIVERSE": 80
+    },
+    {
+        "FAMILY_ID": 17,
+        "ID": 87,
+        "POWER": 0,
+        "UNIVERSE": 61
+    },
+    {
+        "FAMILY_ID": 12,
+        "ID": 88,
+        "POWER": -2,
+        "UNIVERSE": 42
+    },
+    {
+        "FAMILY_ID": 46,
+        "ID": 89,
+        "POWER": 1,
+        "UNIVERSE": 26
+    },
+    {
+        "FAMILY_ID": 26,
+        "ID": 90,
+        "POWER": -2,
+        "UNIVERSE": 66
+    },
+    {
+        "FAMILY_ID": 99,
+        "ID": 91,
+        "POWER": -2,
+        "UNIVERSE": 16
+    },
+    {
+        "FAMILY_ID": 96,
+        "ID": 92,
+        "POWER": -2,
+        "UNIVERSE": 50
+    },
+    {
+        "FAMILY_ID": 30,
+        "ID": 93,
+        "POWER": 0,
+        "UNIVERSE": 23
+    },
+    {
+        "FAMILY_ID": 93,
+        "ID": 94,
+        "POWER": 2,
+        "UNIVERSE": 52
+    },
+    {
+        "FAMILY_ID": 77,
+        "ID": 95,
+        "POWER": 2,
+        "UNIVERSE": 35
+    },
+    {
+        "FAMILY_ID": 6,
+        "ID": 96,
+        "POWER": 0,
+        "UNIVERSE": 15
+    },
+    {
+        "FAMILY_ID": 71,
+        "ID": 97,
+        "POWER": -2,
+        "UNIVERSE": 10
+    }
+]
