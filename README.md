@@ -9,7 +9,7 @@
 	+ Testing Tool: POSTMAN 
 	
 ## Testing Resources For Data Seeding:
-	+ initialData.json (../Multiverse/JSONFile)
+	+ initialData.json (../Multiverse/JSONFile/)
 	+ SampleDataInsertion.java (../Multiverse/src/main/java/xyz/theefficientcodes/sampledata/)
 	
 ## Testing the APIs:
