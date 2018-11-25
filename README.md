@@ -10,7 +10,7 @@
 	
 ## Testing Resources For Data Seeding:
 	+ initialData.json (../Multiverse/JSONFile)
-	+ DataService.java (../Multiverse/src/org/theefficientcodes/api/service/)
+	+ SampleDataInsertion.java (../Multiverse/src/main/java/xyz/theefficientcodes/sampledata/)
 	
 ## Testing the APIs:
 	+ A single JSON Data Insertion: 
