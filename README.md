@@ -14,16 +14,16 @@
 	
 ## Testing the APIs:
 	+ A single JSON Data Insertion: 
-		- http://localhost:8080/Multiverse/postgres/messages/objectInsert
+		- http://localhost:8080/Multiverse/webapi/postgres/objectInsert
 	+ JSON Array Insertion:
-		- http://localhost:8080/Multiverse/postgres/messages/arrayInsert
+		- http://localhost:8080/Multiverse/webapi/postgres/arrayInsert
 	+ Getting data for all the families in a particular universe:
-		- http://localhost:8080/Multiverse/postgres/messages/universes/2
+		- http://localhost:8080/Multiverse/webapi/postgres/universes/2
 	+ Finding balanced status of the family:
-		- http://localhost:8080/Multiverse/postgres/messages/familyBalanceStatus
+		- http://localhost:8080/Multiverse/webapi/postgres/familyBalanceStatus
 	+ Balancing the families:
-		- http://localhost:8080/Multiverse/postgres/messages/balanceTheUniverse
+		- http://localhost:8080/Multiverse/webapi/postgres/balanceTheUniverse
 	+ Getting details a person having a specific id:
-		- http://localhost:8080/Multiverse/postgres/messages/ids/1
+		- http://localhost:8080/Multiverse/webapi/postgres/ids/1
 
 [Presentation Link] (https://drive.google.com/drive/folders/1fZNXVhrmRYepWXigxJ4eMy3q61okHcOJ?usp=sharing)
